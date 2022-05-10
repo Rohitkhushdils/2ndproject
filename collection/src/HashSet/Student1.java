@@ -5,6 +5,7 @@ import java.util.Objects;
 public class Student1 {
 	
 		int rollno;
+		int class;
 		String studName;
 		String course;
 		public Student1(int rollno, String studName, String course) {
